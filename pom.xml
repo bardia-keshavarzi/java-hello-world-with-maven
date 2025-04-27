@@ -22,12 +22,6 @@
            </dependency>
        </dependencies>
        <!-- end::joda[] -->
-        <distributionManagement>
-         <repository>
-            <id>nexus</id>
-            <url>http://10.153.152.95:8081/repository/maven-release/</url>
-         </repository>
-        </distributionManagement>
        
     <build>
         <plugins>
